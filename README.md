@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently Intern at Gremio Technologies Pvt. Lmt.<br>I'm learning Linux, Aws Services and Devops tool to upgarde my knowledge in Cloud Platforms like AWS, Azure and GCP.<br>Interesting fact about me that I'm eager to learn new things or technologies.<br>
+I'm currently Intern at HisanLab Pvt. Lmt.<br>I'm learning Linux, Aws Services and Devops tool to upgarde my knowledge in Cloud Platforms like AWS, Azure and GCP.<br>Interesting fact about me that I'm eager to learn new things or technologies.<br>
 
 
 ## 🌐 Socials:
